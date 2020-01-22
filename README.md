@@ -10,3 +10,4 @@ You should embed your own Google API Key in "Codes/location.py" command line = 1
 
 For reproduce data sets "5starhotelsinAfrica/Codes/location.py" should be ran for each country by chaning the command line = 13 with desired country 
 
+Note that some of the countries might have more than 60 hotels but Google API only provides 60 results.
