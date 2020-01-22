@@ -7,7 +7,7 @@ query_result_next_page = None
 invalid_requests_found = 0
 request_count = 0
 
-API_KEY = 'AIzaSyCStUJdsnDg6jaLXxFaB1_KHvYBnooGTLY'
+API_KEY = 'Your API KEY'
 google_places = GooglePlaces(API_KEY)
 
 with open("algeria.csv", mode='w', newline='') as locationsFile:
