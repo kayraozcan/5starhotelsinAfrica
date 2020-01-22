@@ -10,7 +10,7 @@ request_count = 0
 API_KEY = 'Your API KEY'
 google_places = GooglePlaces(API_KEY)
 
-with open("algeria.csv", mode='w', newline='') as locationsFile:
+with open("COUNTRY.csv", mode='w', newline='') as locationsFile:
     locationsWriter = csv.writer(locationsFile,delimiter=',')
     query = input("Search query: ")
 
