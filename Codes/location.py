@@ -1,6 +1,6 @@
 from googleplaces import GooglePlaces, types, lang
 import time, json
-#import pandas as pd
+import pandas as pd
 import csv
 
 query_result_next_page = None
