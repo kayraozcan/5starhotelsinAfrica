@@ -1,0 +1,50 @@
+Country,NumberOf5StarHotels,id
+Algeria,24,DZA
+Angola,3,AGO
+Botswana,18,BWA
+Burkina Faso,2,BFA
+Burundi,1,BDI
+Cabo Verde,12
+Cameroon,3,CMR
+Central African Republic,6,CAF
+Chad,3,TCD
+Comoros,20
+Congo Democratic Republic,7,COD
+Congo Republic,4,COG
+Cote dIvoire,5,CIV
+Egypt,60,EGY
+Ethiopia,9,ETH
+Gabon,4,GAB
+Gambia,6,GMB
+Ghana,4,GHA
+Guinea,2,GIN
+Guinea Bissau,1,GNB
+Kenya,60,KEN
+Lesotho,24,LSO
+Liberia,11,LBR
+Libya,4,LBY
+Madagascar,6,MDG
+Malawi,2,MWI
+Mali,3,MLI
+Mauiritius,43
+Mauritania,0,MRT
+Morocco,60,MAR
+Mozambique,12,MOZ
+Namibia,17
+Niger,19,NER
+Nigeria,49,NGA
+Rwanda,6,RWA
+Sao Tome and Principe,2
+Senegal,15,SEN
+Seychelles,24
+Sierra Leone,21,SLE
+Somalia,19,SOM
+South Africa,60,ZAF
+South Sudan,2,SSD
+Sudan,25,SDN
+Tanzania,0,TAZ
+Togo,4,TGO
+Tunisia,60,TUN
+Uganda,6,UGA
+Zambia,17,ZMB
+Zimbabwe,10,ZWE
